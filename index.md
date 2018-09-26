@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## 微账 - Vudget
 
-You can use the [editor on GitHub](https://github.com/Zachera/vudget.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Vudget - 用数字记录生活轨迹
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Vudget - 一款优秀的账本APP，以简约的操作流程记录精彩的生活。
 
-### Markdown
+Vudget - 采用多账本的记账方式，方便您管理每一个账户。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Vudget - 图表简单而实用，让您能直观了解自己的每一笔支出，作出进一步的资金规划。
 
-```markdown
-Syntax highlighted code block
+Vudget - 数据完全储存在您个人的移动设备以及iCloud之中，没有遗失数据的风险。
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zachera/vudget.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
